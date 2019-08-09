@@ -1,60 +1,8 @@
 {
-  "posts": [
-  	{ 
-  		"id": 1, 
-  		"name" : "Name",
-  		"street" : "Street name",
-  		"post_code" : 17,
-  		"place" : "Ort Name",
-  		"country" : "Austria",
-  		"type" : 123,
-  	},
-
-  	{ 
-  		"id": 2, 
-  		"name" : "Name 2",
-  		"street" : "Street name",
-  		"post_code" : 17,
-  		"place" : "Ort Name",
-  		"country" : "Austria",
-  		"type" : 123,
-  	},
-  	{ 
-  		"id": 3, 
-  		"name" : "Name 3",
-  		"street" : "Street name",
-  		"post_code" : 17,
-  		"place" : "Ort Name",
-  		"country" : "Austria",
-  		"type" : 123,
-  	},
-  	{ 
-  		"id": 4, 
-  		"name" : "Name 4",
-  		"street" : "Street name",
-  		"post_code" : 17,
-  		"place" : "Ort Name",
-  		"country" : "Austria",
-  		"type" : 123,
-  	},
-  	{ 
-  		"id": 5, 
-  		"name" : "Name 5",
-  		"street" : "Street name",
-  		"post_code" : 17,
-  		"place" : "Ort Name",
-  		"country" : "Austria",
-  		"type" : 123,
-  	},
-  	{ 
-  		"id":6, 
-  		"name" : "Name 6",
-  		"street" : "Street name",
-  		"post_code" : 17,
-  		"place" : "Ort Name",
-  		"country" : "Austria",
-  		"type" : 123,
-  	},
+   "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
