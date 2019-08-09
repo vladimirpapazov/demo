@@ -10,7 +10,6 @@
   		"type" : 123,
   	},
 
-
   	{ 
   		"id": 2, 
   		"name" : "Name 2",
@@ -20,7 +19,6 @@
   		"country" : "Austria",
   		"type" : 123,
   	},
-
   	{ 
   		"id": 3, 
   		"name" : "Name 3",
@@ -30,7 +28,6 @@
   		"country" : "Austria",
   		"type" : 123,
   	},
-
   	{ 
   		"id": 4, 
   		"name" : "Name 4",
@@ -40,7 +37,6 @@
   		"country" : "Austria",
   		"type" : 123,
   	},
-
   	{ 
   		"id": 5, 
   		"name" : "Name 5",
@@ -50,7 +46,6 @@
   		"country" : "Austria",
   		"type" : 123,
   	},
-
   	{ 
   		"id":6, 
   		"name" : "Name 6",
@@ -60,8 +55,6 @@
   		"country" : "Austria",
   		"type" : 123,
   	},
-
-
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
